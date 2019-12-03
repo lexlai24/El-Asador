@@ -1,0 +1,147 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="This is what you would use to describe your website to Google. It is important for SEO function.">
+<meta name="keyword" content="This is where you would place search keywords for your webpage, separated by commas. This is for internal search function only.">
+<title>El Asador</title>
+
+<link href="includes/css/bootstrap-reboot.css" rel="stylesheet" />
+<link href="includes/css/bootstrap.css" rel="stylesheet" />
+<link href="includes/css/tether-theme-arrows-dark.min.css" rel="stylesheet" />
+<link href="includes/css/tether-theme-arrows.min.css" rel="stylesheet" />
+<link href="includes/css/tether-theme-basic.min.css" rel="stylesheet" />
+<link href="includes/css/tether.min.css" rel="stylesheet" />
+<!--jQuery Stylesheets-->
+<link href="includes/css/jquery-ui.min.css" rel="stylesheet" />
+<link href="includes/css/jquery-ui.structure.min.css" rel="stylesheet" />
+<link href="includes/css/jquery-ui.theme.min.css" rel="stylesheet" />
+	
+
+<link href="includes/css/styles.css" rel="stylesheet" />
+	
+<!--Javascripts, please do not open or edit these-->
+<script src="includes/js/jquery-3.2.1.min.js"></script>
+<script src="includes/js/jquery-ui.min.js"></script>
+<script src="includes/js/tether.min.js"></script>
+<script src="includes/js/bootstrap.min.js"></script>
+</head>
+	
+
+	
+
+<body>
+	<nav class="navbar navbar-expand-md navbar-dark crop fixed-top">
+ 
+  			<a class="navbar-brand logo mx-auto" href="default.html">
+			<img src="images/22549773_889184484564652_2439299229929738696_n.png" class="img-fluid " alt="logo">
+			</a>
+
+  <!-- Toggler/collapsibe Button -->
+  	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+    <span class="navbar-toggler-icon"></span>
+  	</button>
+
+  <!-- Navbar links -->
+  		<div class="collapse navbar-collapse navbar-nav " id="collapsibleNavbar">
+			
+    		<ul class="navbar-nav">
+     		 <li class="nav-item f1 ">
+       			 <a class="nav-link" href="Menu.html">Menu</a>
+      		</li>
+      		<li class="nav-item f1">
+       			 <a class="nav-link" href="Specials.html">Specials</a>
+     		 </li>
+     		 <li class="nav-item f1">
+       			 <a class="nav-link" href="About.html">About</a>
+     		 </li>
+			 <li class="nav-item f1">
+       			 <a class="nav-link" href="Contact.html">Contact</a>
+     		 </li>
+   			 </ul>
+			
+  		</div>
+</nav>
+	
+	<div>
+		<img src="images/Main-Img-01.png" alt="home-tacos" class="home-tacos img-fluid">
+	</div>	
+	<div>
+		<img src="images/Home-Slogan-02.png" alt="Home-slogan" class="home-slogan img-fluid">
+		<img src="images/Home-family-img.png" alt="Home-family-img" class="home-family-img img-fluid ">
+	</div>
+	<div>
+		<a href="Menu.html">
+		<img src="images/Home-New-Item-03.png" alt="home-new-item" class="home-new-item img-fluid ">
+		</a>
+	</div>
+	<div>
+		<br/><br/><br/>
+		<p class="f2 regular-text">save money with our</p>
+		<a href="Specials.html">
+		<img src="images/Home-icon-04.png" alt="home-icon" class="home-icon img-fluid">
+		</a>
+	</div>
+	<div>
+		<img src="images/home-icon2.png" alt="home-icon" class="img-fluid home-icon2">
+		
+	</div>
+	
+	<div>
+		<p class="rewards-text f1">Asador Rewards &#8482;</p>
+		<img src="images/Home-icon4-07.png" alt="home-icon4" class="home-icon4 img-fluid">
+		<a href="Rewards.html" id="my-image"><img src="images/Home-icon5-08.png" alt="home-icon5" class="home-icon5 img-fluid"></a>
+		<a href="Rewards.html">
+		<img src="images/Home-icon3-06.png" alt="home-icon3" class="home-icon3 img-fluid">
+		</a>
+		<div>
+		<a href="Rewards.html" class="my-link">
+			<img src="images/home-rewards-img.jpg" alt="rewards-img" class="rewards-img-mobile img-fluid">
+		</a>
+		<img src="images/home-rewards-img.jpg" alt="rewards-img" class="rewards-img-desktop img-fluid">
+	</div>
+	</div>
+
+
+
+
+</body>
+	<footer class="footer">
+		
+	<div class="container">
+		<div class="row">
+			<div class="col-6 col-sm-6 col-md-4"><p class="f3 footer-header-text">Address</p>
+			<p class="f2 footer-text1">7955 N Davis Highway
+				<br/>Pensacola, Florida  32514</p>
+
+
+			<p class="f3 footer-header-text">Phone</p>
+			<p class="f2 "><a class="footer-text2" href="tel:850-696-3232">850-696-3232</a></p>
+			</div>
+
+		
+			<div class="col-6 col-sm-6 col-md-4"><p class="f3 footer-header-text">Hours</p>
+			<p class="f2 footer-text3">Monday-Saturday</p>
+		
+			<p class="f2 footer-text">10:30am – 8:30pm</p>
+			<br/>
+			<p class="f2 footer-text3">Sunday </p>
+		
+			<p class="f2 footer-text">Closed</p>
+			</div>
+			
+			
+		<div class="col-6 col-sm-6 col-md-4"><p class="f3 footer-header-text">Follow Us</p>
+		<a href="default.html">	<img src="images/Socialmediaicons-10.png" alt="socialmedia" class="socialmedia img-fluid"></a>
+		</div>
+		</div>
+	
+	
+		
+	</div>
+ 	
+	</footer>
+	
+</html>
